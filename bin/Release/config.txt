@@ -1,0 +1,5 @@
+url:remotemysql.com
+username:jgojPYQQUQ
+password:mnKwOppXBu
+namedb:jgojPYQQUQ
+port:3306
